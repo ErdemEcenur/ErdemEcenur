@@ -1,4 +1,6 @@
-🌸Hi, I’m Ecenur, or easier to say ‘EJ’! I am a web developer already in the making.<br>
+<h1> Hello World! 🍀 </h1>
+
+🌸I’m Ecenur, or easier to say ‘EJ’! I am a web developer already in the making.<br>
 ✨A lifelong learner who loves to discover and to create.<br>
 🌟Currently taking a course on front&back end development. Creating digital magic with HTML, CSS, and JS. <br>
  🌈 I have been enjoying this journey using my obsessive attention to details.
