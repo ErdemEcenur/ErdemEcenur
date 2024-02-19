@@ -1,4 +1,5 @@
-![IMG_4768](https://github.com/ErdemEcenur/ErdemEcenur/assets/159720492/f05f2461-dbfc-49d2-93d3-855811692336)
+
+![IMG_4768](https://github.com/ErdemEcenur/ErdemEcenur/assets/159720492/ae898c83-e412-4662-b32b-7192a393f3a4)
 
 
 <h1> Hello World! 🍀 </h1>
