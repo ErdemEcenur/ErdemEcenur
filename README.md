@@ -12,7 +12,7 @@
 As the saying goes, "Be obsessed or be average.” <br>
 ⚡️ Stick around to follow up on this journey with me while I turn my daily caffeine dose into code!<br>
 
-<p align="right">Connect with me:</p>
+<p align="right">Connect with me:</p><br><br>
 <p align="right">
 <a href="https://twitter.com/erdem_ecenur97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erdem_ecenur97" height="20" width="30" /></a>
 <a href="https://instagram.com/ecenuravcii0209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ecenuravcii0209" height="20" width="30" /></a>
